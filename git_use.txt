@@ -1,2 +1,11 @@
 初始化新仓库
 git init new_dir
+
+添加到缓存区
+git add 文件名
+
+提交到本地仓库
+git commit -m "提交说明"
+
+提交的远程服务区
+git push
