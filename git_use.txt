@@ -1,0 +1,2 @@
+初始化新仓库
+git init new_dir
